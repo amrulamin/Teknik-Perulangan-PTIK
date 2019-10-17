@@ -1,9 +1,9 @@
 #include <iostream>
-using namesace std;
+using namespace std;
 
 int main ()
  {
-      For(int i = 0; i < 10; i++){
+      for(int i = 0; i < 10; i++){
           cout << "emrograman Dasar Menggunakan C++!"<< endl ;
             }
             return 0;
